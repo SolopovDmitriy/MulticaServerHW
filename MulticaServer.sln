@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticaServer", "MulticaServer\MulticaServer.csproj", "{C0124EE9-FDFE-4378-BE12-A97CED5253D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{590FAAB1-E871-40CF-A4BD-A242D0049E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0124EE9-FDFE-4378-BE12-A97CED5253D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0124EE9-FDFE-4378-BE12-A97CED5253D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0124EE9-FDFE-4378-BE12-A97CED5253D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0124EE9-FDFE-4378-BE12-A97CED5253D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590FAAB1-E871-40CF-A4BD-A242D0049E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590FAAB1-E871-40CF-A4BD-A242D0049E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590FAAB1-E871-40CF-A4BD-A242D0049E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590FAAB1-E871-40CF-A4BD-A242D0049E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CF3118-6DFA-43F3-810F-ADEEC0F7F1B8}
+	EndGlobalSection
+EndGlobal
